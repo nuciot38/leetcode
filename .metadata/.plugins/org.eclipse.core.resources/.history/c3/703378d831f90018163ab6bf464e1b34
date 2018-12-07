@@ -1,0 +1,8 @@
+package leetcode;
+
+public class isPalindromeNum {
+	public boolean isPalindrome(int x) {
+		if()
+		return true;
+	}
+}
