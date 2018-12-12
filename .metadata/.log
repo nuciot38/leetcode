@@ -3712,3 +3712,42 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:23:33.751
+!MESSAGE System property http.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:23:33.755
+!MESSAGE System property http.proxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:23:53.794
+!MESSAGE System property http.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:23:53.798
+!MESSAGE System property http.proxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-12-12 17:24:21.073
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:25:33.245
+!MESSAGE System property http.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:25:33.252
+!MESSAGE System property http.proxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:25:37.353
+!MESSAGE System property http.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:25:37.358
+!MESSAGE System property http.proxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:28:46.552
+!MESSAGE System property http.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:28:46.556
+!MESSAGE System property http.proxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:30:51.408
+!MESSAGE System property http.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-12 17:30:51.412
+!MESSAGE System property http.proxyPort is not set but should be 1080.
