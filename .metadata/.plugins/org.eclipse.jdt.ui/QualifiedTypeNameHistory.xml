@@ -8,10 +8,12 @@
 <fullyQualifiedTypeName name="javax.naming.spi.DirStateFactory.Result"/>
 <fullyQualifiedTypeName name="leetcode.eighteen_dec_eleven.ListNode"/>
 <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
-<fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool.ManagedBlocker"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="java.util.Queue"/>
-<fullyQualifiedTypeName name="leetcode.eight_dec_twelve.TreeNode"/>
 <fullyQualifiedTypeName name="javax.swing.Painter"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="javafx.util.Pair"/>
+<fullyQualifiedTypeName name="leetcode.eight_dec_twelve.TreeNode"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>
